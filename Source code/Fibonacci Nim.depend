@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518371495 source:e:\c++ projects\fibonacci nim\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
